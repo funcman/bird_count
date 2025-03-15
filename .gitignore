@@ -18,13 +18,6 @@ ENV/
 .venv/
 .env/
 
-# Project specific output files
-*_result.jpg
-*_result_advanced.jpg
-sample_birds*.jpg
-test_results/
-results/
-
 # Jupyter Notebook
 .ipynb_checkpoints
 
